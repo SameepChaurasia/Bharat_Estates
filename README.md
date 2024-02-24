@@ -1,4 +1,6 @@
+About Project - This is a property renting/buying/listing site where you can buy or rent property you like or even list out your own also with signin function with google authentication also it uses mondodb data base for storing client data and property details etc...
 
+TechStacks Used -> Html/Tailwind/Javascript/React/Vite/MongoDb/Express/Node js and Firebase for google authentication system
 
 https://github.com/SameepChaurasia/Bharat_Estates/assets/112929141/58de2b2c-6624-4646-ac9f-322f53da5bce
 
